@@ -23,36 +23,35 @@ technology?**
 **What are the characteristics of users? (ex. demographics, preference, expertise)** 
 >Demographic: Teenagers, Young Adults, Car owners, travelers
 
->Preferences: Users who prefer having their own transportation rather than using public transport and users who travel a lot and need a license to operate a vehicle. 
+>Preferences: Users who prefer having their own transportation rather than using public transport. Users who travel a lot and need a license to operate a vehicle. 
 
->Expertise: Users do not need any particular level of expertise to use this application
+>Expertise: Users do not need any particular level of expertise to use this application.
 
 **In which context (where, why) would the users do that activity?** 
->The PictureThis app is used as both a plant identification tool and plant description dictionary. Users either take a photo of a plant directly through the app or upload one from thier camera roll, and the app will automatically supply users with ample information about the plants biology, toxicity, and care needs. Users can be found doing this activity in plant stores beofre they buy one, on hikes, or in their own houses. Not only can this app help users properly take care of their plants, but it's a great way to learn about other species of plants and stay informed about the vegetation around us. 
+>The New York State DMV Website is where New York drivers can recieve information, steps, and appointments to renew, replace, make changes to, or get a license. Users can find information of the neccessary paperwork they need in order to bring it into the DMV and obtain a license. Users would do this activity, usially in the comfort of their home or workplace, in order to a safe and registered driver in the state of New York. This website serves the public by licensing drivers, securing identities, and regualting the vehicle industry.
 
 **What do/did the users usually do in order to complete that activity?** 
->To identify plants before, users would usually google physical characterisitics of the plant and try and find a species photo that matches the one they are studying. Users also used books, blogs, and other plant lovers opinions to craft their own opinions about plants. 
+>There is no other way to obtain a New York drivers license if users do not go through the New York  DMV. When it comes to finding outside resources that lay out the steps to obtaining a license, users can turn to YouTube, external websites, or blogs. 
 
 ### Step 3: Pick observation method(s)
 **The two observation methods I employed are ethnographic research and participatory observation.** 
 
-My ethnographic research consists of monitoring how my apartmentmates take care of their plants and decide to buy new plants for themselves. We are just getting settled into a new apartment so my roomates are buying new plants constantly as house decor, making them a perfect group to study. Some of my observations include:
+My ethnographic research consists of monitoring how my interviewee searches for information about obtaining a license for themselves, prior to me giving them any informaton about the DMV website. My interviewee plans to move to New York after graduation this year, hoping to be a licensed driver there. Some of my observations include:
 
-> Individuals tend to water their plants based soley on intuition and physical appearance of the plant. More droppy plants recieve more water. 
+> Individuals tend to google "How to get a License" instead of googling the DMV website. 
 
-> Plants tend to be placed in any available pot, regardless if it provides water drainage or not. Pots without water drainage holes can flood plants easily. 
+> The interviewee was stressed even before searching for information, proving that getting a license is understood to be a stressful experience.  
 
-> Individuals tend to buy plants that are small and easy to fit in the apartment. Species of plant and amount of light needed is not thought about much before purchasing the plant. 
+> Individuals tend to look for an online appointment to recieve a license rather than reading the necessary steps first. 
  
-> Succulent type plants are placed towards the light while thin leaf plants are places in less direct light.
+> YouTube was the interviewees last option when she began getting frustrated trying to find information.
 
-> The cat that belongs to the individuals was freely roaming around in the plants, even napping in the large palm tree pot. 
+> The interviewee googled "How to switch a California license to a New York license," probably thinking this, if it existed, would be the easiest option.  
 
->Plants that are not doing well are relowcated to areas of the house with different levels of light.
+> The interviewee got frusterated and shut her laptop once she cound not find an appointmeent at the DMV.
 
->  Individuals google plant instructions only when they are afraid they are going to kill a plast. 
 
-I am conductiong this participatory research with a friend who fits my target demographic and has plenty of house plants herself. 
+I am conductiong this participatory research with a friend who fits my target demographic and plans to obtain a New York driver license in the near future. 
 
 ### Step 4: Participatory Research Materials
 #### 1. Contextual Inquiry Guide
@@ -64,6 +63,6 @@ Please find the recording of the interview [here](https://youtu.be/fokVMPQUfTw).
 The transcription of the interview can be found [here](https://docs.google.com/document/d/11Dk7A7iNkwnlk82PNkM6m4ccBXGztvjximEmSefvDt4/edit?usp=sharing).
 
 ### Reflection
-The overall experience of creating and conducting this interview was much smoother than last weeks pilot UT. Since this activity was less focused on specific tasks and more focused on the general needs the app fullfills, it was much less stressful on the user. I realized that it is crucial to make your participant as comfortable as possible during the activity so they feel like they can say the truth about their experiences. Since I interviewed a friend of mine, it was easy for me to feel like she is being honest in her responses. Allowing the participant to engage with the app without instruction provides very important information about which parts of the app are most compelling to users. I was able to take note of many features on the app based on the order in which the particpant engaged with it's tabs. Without instruction, the participant was still able to photograph the plant and read up on it's care instructions, proving that the app is intuitive and easy to use. If i were to conduct this activity again in the future, I would make sure I have a participant that is very vocal about her thoughts and emotions. My participant was quite shy and this resulted in a less detailed activity.
+The overall experience of creating and conducting this interview was much smoother than last weeks pilot UT. Since this activity was less focused on specific tasks and more focused on the general needs the app fullfills, it was much less stressful on the user. I realized that it is crucial to make your participant as comfortable as possible during the activity so they feel like they can say the truth about their experiences. Since I interviewed a friend of mine, it was easy for me to feel like she is being honest in her responses. Allowing the participant to engage with the app without instruction provides very important information about which parts of the app are most compelling to users. I was able to take note of many features on the app based on the order in which the particpant engaged with it's tabs. Without instruction, the participant was able to navigate to the "Getting a License" Info page, proving that the app is intuitive and easy to use. If I were to conduct this activity again in the future, I would make sure I have a participant that is very vocal about her thoughts and emotions. My participant was quite shy and this resulted in a less detailed activity.
 
 
