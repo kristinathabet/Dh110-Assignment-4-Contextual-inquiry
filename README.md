@@ -48,7 +48,7 @@ My ethnographic research consists of monitoring how my interviewee searches for 
 
 > The interviewee googled "How to switch a California license to a New York license," probably thinking this, if it existed, would be the easiest option.  
 
-> The interviewee got frusterated and shut her laptop once she cound not find an appointmeent at the DMV.
+> The interviewee got frustrated and shut her laptop once she cound not find an appointmeent at the DMV.
 
 
 I am conductiong this participatory research with a friend who fits my target demographic and plans to obtain a New York driver license in the near future. 
